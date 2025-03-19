@@ -9,7 +9,7 @@ const ProfileScreen = () => {
     <View style={styles.container}>
       <View style={styles.header} />
       <View style={styles.body}>
-        <Text style={styles.name}>Nguyen Van Minh</Text>
+        <Text style={styles.name}>Le Tran Duc</Text>
         <Text style={styles.title}>Mobile Developer</Text>
         <Text style={styles.description}>
           I have above 5 years of experience in native mobile apps development, now I am learning React Native
